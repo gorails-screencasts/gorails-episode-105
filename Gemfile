@@ -46,3 +46,4 @@ group :development do
 end
 
 gem 'devise'
+gem 'mailboxer', github: 'mailboxer/mailboxer'
